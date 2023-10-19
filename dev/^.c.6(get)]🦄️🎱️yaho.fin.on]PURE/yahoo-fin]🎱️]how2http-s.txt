@@ -1,0 +1,63 @@
+🎱️🎱️🎱️🎱️🎱️🎱️🎱️🎱️🎱️🎱️🎱️🎱️🎱️🎱️🎱️🎱️🎱️
+https://query1.finance.yahoo.com/v8/finance/chart/NAUKRI.NS?region=US&lang=en-US&includePrePost=false&interval=2m&useYfid=true&range=1d&corsDomain=finance.yahoo.com&.tsrc=finance
+
+🎱️🎱️🎱️🎱️🎱️🎱️🎱️🎱️🎱️🎱️🎱️🎱️🎱️
+🔓️
+./web_get http://query1.finance.yahoo.com/v8/finance/chart/NAUKRI.NS?region=US&lang=en-US&includePrePost=false&interval=2m&useYfid=true&range=1d&corsDomain=finance.yahoo.com&.tsrc=finance
+
+🤯️
+ON ! NO HTTPS! 
+
+🦈️
+dump this into text b4 parsing at first? (yea but technically u will probably do other first, or w/e
+have fun <3
+🦄️
+(i bet this would even work on 32.s but we aint doin that 🔍️)
+<just do wut u can 4 free.📳️ and build out "HORN!.sim.xvs" (plan on jumping 2 riscv soon)
+(oh and hdmi is just vga ;)https://www.reddit.com/r/osdev/comments/rzok9c/hdmi_drivers/
+🦄️
+🦈️
+🤯️
+https://www.reddit.com/r/sheets/comments/12snqft/broken_yahoo_finance_api_url/
+🔓️
+
+./web_get www.finance.yahoo.com/quote/AAPL/ 80
+
+http://www.w3.org/pub/WWW/TheProject.html HTTP/1.1
+
+https://finance.yahoo.com/quote/AMZN?p=EDTK&.tsrc=fin-srch
+
+
+
+
+
+
+
+
+
+
+
+
+
+_______KRUFT_______
+
+gcc socket.c -o soc
+
+#./soc www.finance.yahoo.com/quote/AAPL/ 80
+
+./soc www.google.com 80 >> dump.txt
+
+# https://www.finance.yahoo.com/quote/AAPL/
+
+./soc https://www.google.com 80
+
+./soc www.finance.yahoo.com/quote/AAPL/ 80
+
+./soc www.finance.yahoo.com  80
+#works "webazzarus" 
+#thank GOD? 
+#maybe we could patch the next bit up and do , this next bit next 2 it? 
+# https://ansonliu.com/si485-site/lec/15/lec.html 
+
+
+./soc www.finance.yahoo.com/lookup 80
